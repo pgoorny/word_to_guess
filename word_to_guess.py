@@ -41,7 +41,7 @@ def play():
                 else:
                     n += 1 
         else:
-            print('Try again!')
+            print('Try the letter again!')
 
 def play_again():
         print('Do you want to play again? If yes, press [y]. If no, press [n]')
